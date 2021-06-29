@@ -1,0 +1,3 @@
+include ':Lib'
+include ':app'
+rootProject.name = "XMmap"
